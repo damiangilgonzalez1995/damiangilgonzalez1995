@@ -16,7 +16,6 @@
 ![Lead AI Expert](https://img.shields.io/badge/Lead_AI_Expert-0d1117?style=flat-square&labelColor=21262d&color=21262d)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-3fb950?style=flat-square&logoColor=white)
 ![LLMs in Production](https://img.shields.io/badge/LLMs_in_Production-58a6ff?style=flat-square)
-![El Ejido · Spain](https://img.shields.io/badge/El_Ejido_·_Spain-🇪🇸-c9d1d9?style=flat-square)
 
 </div>
 
@@ -129,19 +128,6 @@ Production-grade RAG strategies: query decomposition, reranking, hybrid search a
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=damiangilgonzalez1995&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiangilgonzalez1995&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=damiangilgonzalez1995&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🎓 Teaching
@@ -150,7 +136,7 @@ Production-grade RAG strategies: query decomposition, reranking, hybrid search a
 |---|---|
 | **Udia** | AI lecturer — LLMs & agents master's program |
 | **Webpositer** | AI lecturer — master's program |
-| **IA LAB Community** | Founder — practical AI for non-technical people |
+| **IA LAB Community** | Instructor — practical AI for non-technical people |
 
 ---
 
@@ -165,7 +151,7 @@ Led design and delivery of internal GenAI projects. Agentic systems and RAG pipe
 **AI Consultant — Freelance** · Multiple clients *(Sep 2023 – Present)*
 End-to-end GenAI products: RAG systems, AI agents, LLM-powered applications across multiple industries.
 
-**Lead Data Scientist** · Intrum *(Feb 2022 – May 2023)*
+**Data Scientist** · Intrum *(Feb 2022 – May 2023)*
 Risk scoring and forecasting models for UK and Poland. Multi-million annual cost savings across credit risk operations.
 
 **Data Scientist** · HP · Telefónica · Redsys *(2019 – 2022)*
